@@ -4,6 +4,7 @@ import java.util.Comparator;
 
 /**
  * @author Pratibha Shambhangoudar date: 2019-September-04
+ * The program takes a list of zipcodes and returns modified original list after merging
  */
 class ZipCodesMerge {
     public int[][] findMinRanges(int[][] zipcodes) {
