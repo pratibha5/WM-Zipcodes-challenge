@@ -1,7 +1,9 @@
 package zcodes;
 import java.util.Arrays;
+import java.util.Comparator;
+
 /**
- * @author pratibha Shambhangoudar date: 2019-September-04
+ * @author Pratibha Shambhangoudar date: 2019-September-04
  */
 class ZipCodesMerge {
     public int[][] findMinRanges(int[][] zipcodes) {
