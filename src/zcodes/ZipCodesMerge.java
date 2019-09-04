@@ -1,3 +1,8 @@
+package zcodes;
+import java.util.Arrays;
+/**
+ * @author pratibha Shambhangoudar date: 2019-September-04
+ */
 class ZipCodesMerge {
     public int[][] findMinRanges(int[][] zipcodes) {
         //return empty array if no zipcodes
